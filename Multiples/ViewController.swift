@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var counterLabel: UILabel!
   
     
+    @IBAction func numberTextField(sender: AnyObject) {
+    }
    
         
         
